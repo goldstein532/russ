@@ -1,0 +1,14 @@
+numpy==1.24.2
+pandas==1.5.3
+streamlit==1.18.1
+spacy==3.5.0
+python-docx==0.8.11
+matplotlib==3.7.1
+networkx==3.1
+plotly==5.11.0
+pyvis==0.1.9
+wordcloud==1.8.2.2
+gensim==4.3.1
+community==1.0.0b1
+nltk==3.7
+scikit-learn==1.1.2
